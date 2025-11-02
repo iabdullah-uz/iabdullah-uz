@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdullah
 
-<!--
-**iabdullah-uz/iabdullah-uz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m passionate about technology, software development, and continuous learning. This space is where I share my projects, experiments, and progress as I grow my skills.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Exploring software development and building small projects to learn  
+- 🧠 Interested in C++, C#, .NET, and database systems  
+- 🌱 Currently learning ADO.NET and improving my programming skills  
+- 🎯 Goal: to become a skilled software developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages:** C++, C#, SQL  
+- **Frameworks & Libraries:** .NET (WinForms, others)  
+- **Databases:** SQL Server  
+- **Tools & IDEs:** Visual Studio, SSMS, Git  
+
+## 📫 Contact
+- 💬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/abdullah-abdulmajeed-b99524334/) 
+- 📧 Email: abdullahyosiff97@gmail.com  
